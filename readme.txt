@@ -27,7 +27,7 @@ Check out [our documentation][docs] for more information.
 All tickets for the project are being tracked on [GitHub][].
 
 [docs]: http://lhero.org/plugins/lh-email-registration/
-[GitHub]: https://github.com/shawfactor/lh-login-page
+[GitHub]: https://github.com/shawfactor/lh-email-registration
 
 == Installation ==
 
